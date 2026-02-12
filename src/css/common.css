@@ -1,0 +1,24 @@
+button {
+    background-color: darkturquoise;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: darkcyan;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.search {
+    margin-bottom: 5px;
+}
+
+select {
+    background-color: darkturquoise;
+}
